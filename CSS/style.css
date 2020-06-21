@@ -1,0 +1,55 @@
+
+/*Selector universal
+*{
+    color: peru;
+}*/
+
+/*Selector de tipo Etiquetas*/
+
+h1{
+    color: Purple;
+}
+h2{
+    color: red;
+}
+p{
+    color: green;
+}
+
+/*Selector descendente
+
+p em{
+    color: blue;
+}
+p b{
+    color: crimson;
+}*/
+
+/*Selector de clase
+.resaltar{
+    color: gold;
+}
+.parrafo1{
+    color: gray;
+}
+/*Selector ID
+#lista{
+    color: darkred;
+    font-size: 30px;
+}
+#lista2{
+    color: darkblue;
+    font-size: 30px;
+}*/
+
+/*Selector multiple
+h1, h2{
+    color: pink;
+}*/
+
+/*especifico descendente
+a.resaltar{
+    color: greenyellow;
+    font-size: 30px;
+}*/
+
